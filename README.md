@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DevTrack
 
 DevTrack is a production-ready MERN dashboard for managing personal software projects, repositories, deployments, tasks, bugs, maintenance work, upgrades, notifications, and activity history.
@@ -50,3 +51,7 @@ Vercel frontend:
 - Build command: `npm run build`
 - Output directory: `dist`
 - Environment variable: `VITE_API_URL=https://your-render-api.onrender.com/api`
+=======
+# Dashboard
+DevTrack is a professional developer dashboard for managing and tracking software projects. Monitor project status, progress, upgrades, maintenance, tasks, deadlines, repositories, and deployment links in one place, with analytics and email reminders to improve productivity and organization.
+>>>>>>> b56cf48410d0f3cdc86f08c6538aea4a62dd1a28
