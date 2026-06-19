@@ -15,21 +15,24 @@ DevTrack is a production-ready MERN dashboard for managing personal software pro
 1. Install dependencies:
 
    ```bash
-   npm run install:all
+   npm  install
    ```
 
 2. Configure environment files:
 
    ```bash
-   copy server\.env.example server\.env
-   copy server\client\.env.example server\client\.env
-   ```
+   cd backend
+   npm install
+   nodemon server.js
+      ```
 
 3. Update `server/.env` with your MongoDB Atlas URI and JWT secret.
 
 4. Run both apps:
 
    ```bash
+   cd client
+   npm install
    npm run dev
    ```
 
