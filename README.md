@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # DevTrack
 
 DevTrack is a production-ready MERN dashboard for managing personal software projects, repositories, deployments, tasks, bugs, maintenance work, upgrades, notifications, and activity history.
@@ -57,4 +56,4 @@ Vercel frontend:
 =======
 # Dashboard
 DevTrack is a professional developer dashboard for managing and tracking software projects. Monitor project status, progress, upgrades, maintenance, tasks, deadlines, repositories, and deployment links in one place, with analytics and email reminders to improve productivity and organization.
->>>>>>> >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>
