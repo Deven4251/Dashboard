@@ -53,7 +53,7 @@ Vercel frontend:
 - Build command: `npm run build`
 - Output directory: `dist`
 - Environment variable: `VITE_API_URL=https://your-render-api.onrender.com/api`
-=======
+
 # Dashboard
 DevTrack is a professional developer dashboard for managing and tracking software projects. Monitor project status, progress, upgrades, maintenance, tasks, deadlines, repositories, and deployment links in one place, with analytics and email reminders to improve productivity and organization.
 >>>>>>>
