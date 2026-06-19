@@ -57,4 +57,4 @@ Vercel frontend:
 =======
 # Dashboard
 DevTrack is a professional developer dashboard for managing and tracking software projects. Monitor project status, progress, upgrades, maintenance, tasks, deadlines, repositories, and deployment links in one place, with analytics and email reminders to improve productivity and organization.
->>>>>>> b56cf48410d0f3cdc86f08c6538aea4a62dd1a28
+>>>>>>> >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
